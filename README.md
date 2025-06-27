@@ -1,4 +1,4 @@
-# EasyShop E-Commerce API
+# EasyShop E-Commerce API 🛒🛍️
 
 ![ChatGPT Image Jun 27, 2025, 04_06_36 AM](https://github.com/user-attachments/assets/41ee6cdc-9a38-42e1-a6d6-c1fbe403d880)
 
