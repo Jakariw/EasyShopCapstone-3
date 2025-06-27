@@ -5,6 +5,15 @@
 
 ## 📝 Project Description
 EasyShop is a Spring Boot-based e-commerce API backend for an online store. This project serves as the backend system for Version 2 of the EasyShop platform, building upon an existing operational system (Version 1). The API handles user authentication, product management, shopping cart functionality, and order processing.
+
+## ✍️ Application Requirements:
+Version 1 of this website allows users to browse products in various categories, add them to a shopping cart and check out to order the products. All of the features of the UI are fully functional. The changes and development will only need to be done in the backend Spring Boot Java API project.
+
+### 💻 Existing API Includes: 
+ - User registration and login
+ - The ability to display products by category
+ - Search for or filter the products list
+
 ## 🚀 Key Features
 
 - 🔒 User registration and authentication (JWT token-based)
